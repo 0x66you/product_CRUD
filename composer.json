@@ -1,0 +1,9 @@
+{
+    "name": "0x66you/product_crud",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
